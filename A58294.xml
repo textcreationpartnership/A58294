@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Recanting Whigg, or John Thumb's confession being his sentiments on the present times, in a letter from Amsterdam to the fragments of that hypocritical, diabolical, fanatical association.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58294</idno><idno type="EEBO-CITATION">13459277</idno>
+  <idno type="VID">99625</idno>
+  <idno type="EEBO-PROQUEST">2240954043</idno>
+  
+            <idno type="STC">Wing R615</idno>
+            <idno type="STC">ESTC R33515</idno>
+            <idno type="OCLC">13459277</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99625)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1555:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Recanting Whigg, or John Thumb's confession being his sentiments on the present times, in a letter from Amsterdam to the fragments of that hypocritical, diabolical, fanatical association.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Shell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint form colophon.</note>
+                  <note>Dated at end: Amsterdam, Novemb. 17, 1683.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99625:1"/>
+            <head>THE Recanting Whigg, OR JOHN THUMB<hi>'s Confession, being his Sentiments on the present times, in a Letter from</hi> Amsterdam, <hi>to the Fragment of that Hypo<g ref="char:EOLhyphen"/>critical, Diabolical, Fanatical Association.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <lg>
+               <l>WHAT shall I do, or how shall I attone</l>
+               <l>For all the Ills, the mighty Ills I've done,</l>
+               <l>To a Martyr'd Fathers too much injur'd Son?</l>
+               <l>Shall I thus publick tell the World in Rhimes,</l>
+               <l>How much, how oft I've sin'd, how many times</l>
+               <l>I have deserv'd a Halter for my Crimes?</l>
+               <l>Crimes of all sorts, against the Church and State,</l>
+               <l>Whose Foes I lov'd, but all their Friends did hate,</l>
+               <l>Which to my grief and shame I own too late;</l>
+               <l>And wish those damned faults to expiate</l>
+               <l>With any thing but Life, for that I love,</l>
+               <l>Though when it please th' Alseeing pow'r above</l>
+               <l>To take away my long since forfeit breath,</l>
+               <l>I must resign, and yield my self to Death:</l>
+               <l>Yet do I wish to live, and see once more</l>
+               <l>
+                  <hi>Britains</hi> chief seat, but date not venture o're,</l>
+               <l>Though I am tyr'd with this detested Shore.</l>
+               <l>That Treasonous Book that brought me so much gain,</l>
+               <l>Is now become my chiefest Plague and Pain;</l>
+               <l>As one scab'd Sheep infects a num'rous Flock,</l>
+               <l>So that damn'd Book spoyl'd my remaining Stock,</l>
+               <l>And Banish'd all the rest clear from my Shop.</l>
+               <l>Here they'r endu'd with so much Sence and Reason,</l>
+               <l>They seldom, rather never deal in Treason,</l>
+               <l>For Plotting <hi>Sirs,</hi> is here much out of Season:</l>
+               <l>So those supplys which I receiv'd before,</l>
+               <l>I bid adieu to, and expect no more.</l>
+               <l>Curse on the Traytors first that drew me in,</l>
+               <l>And doubly Curst be that accursed Sin</l>
+               <l>Rebellion, and the Head that did begin:</l>
+               <l>But that Old Squinter saw the Storm and slew,</l>
+               <l>And like true Politician Rogue withdrew,</l>
+               <l>First into this, then into tother World,</l>
+               <l>After those Fire balls up and down be had hurl'd,</l>
+               <l>That almost set the Nation in a Flame,</l>
+               <l>Which Hellish deed, be't spoken to his Fame,</l>
+               <l>Has rais'd immortal Scandal to his Name,</l>
+               <l>And brought those mighty Pillers of the Cause,</l>
+               <l>Under the dreadful Sentence of just Laws,</l>
+               <l>Which <hi>Ignoramus</hi> spurn'd with great Applause.</l>
+               <l>But now beware ye <hi>Teckelitish</hi> Brood.</l>
+               <l>Ye damn'd Antagonists to all that's good;</l>
+               <l>Your sanctified Looks and Plots are vain,</l>
+               <l>Never expect to play the Cheat again;</l>
+               <l>Your guilded Shams will never pass for truth;</l>
+               <l>No more you'l chouse the Old, nor g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the Youth;</l>
+               <l>Your bold <hi>Shaftburian</hi> Boys on Bonefire nights,</l>
+               <l>Those Club-guards to your Antipopish sights,</l>
+               <l>Are now all fled, vanish'd away like fume,</l>
+               <l>Just as <hi>Count Tecklys</hi> (Rebel) Friends consume.</l>
+               <pb facs="tcp:99625:2"/>
+               <l>His Cause and yours had both the like pretence,</l>
+               <l>He did, you wou'd Rebel against your Prince,</l>
+               <l>Yours fail'd you first, and his has fail'd him since.</l>
+               <l>'Tis just indeed, such Fortune should attend</l>
+               <l>Those Villains, who Religion will pretend,</l>
+               <l>When they design some other hellish end:</l>
+               <l>Therefore ye <hi>Whiggish</hi> grand Impostors cease</l>
+               <l>Your wonted motions, to disturb that Peace</l>
+               <l>Which your whole Race strove ever to decrease.</l>
+               <l>'Tis now high time to change your colour'd Cotes,</l>
+               <l>Since late the Jump-relinquisht <hi>Titus Oates:</hi>
+               </l>
+               <l>In the first Plot ye blam'd his lavish Tongue,</l>
+               <l>But now he plainly says your Cause is wrong:</l>
+               <l>He wears the Gown again, with some pretence,</l>
+               <l>Not without hopes his R—ship may commence</l>
+               <l>
+                  <hi>Salamanca,</hi> Doctor and <hi>Whigs</hi> Evidence.</l>
+               <l>But saith one Night a Dream possest my Head,</l>
+               <l>That precious Saint will ne're dye in his Bed;</l>
+               <l>For he will, Hedgbird like, e'ne stay and see,</l>
+               <l>Himself, <hi>cum multis aliis,</hi> swing on Tree,</l>
+               <l>The just reward for <hi>Whiggish</hi> Loyalty.</l>
+               <l>Therefore to all ye Trayt'rous Friends adieu,</l>
+               <l>Farewel ye sneaking Rope-deserving Crew;</l>
+               <l>First the remainder of the <hi>Whiggish</hi> Leaders,</l>
+               <l>Then your smooth tong<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d Religious Treason pleaders;</l>
+               <l>Next ye Cornuted Knights, and silly Cits,</l>
+               <l>Those turn'd out self-conceited plaguey Wits,</l>
+               <l>From such Horn'd Beasts, all honest men should run,</l>
+               <l>And <hi>Whiggish</hi> Monsters as the Plague should shun.</l>
+               <l>But above all, here's one with us appears,</l>
+               <l>As if the <hi>Pillory</hi> had stole his Ears,</l>
+               <l>And yet he huffs and bawls, and's damn'd uncivil</l>
+               <l>To me that liv'd so long, so near the Devil;</l>
+               <l>But let him go, we know him by his mark,</l>
+               <l>For ne're was such a Beast in <hi>Noahs</hi> Ark:</l>
+               <l>But stay, <hi>God-Zooks,</hi> I almost had forgot,</l>
+               <l>Farewel each <hi>Common Council</hi> busie Sot,</l>
+               <l>That's a well-wisher to Old <hi>Tonys</hi> Plot.</l>
+               <l>'Tis true, (when on of those) I once was able</l>
+               <l>My self alone to animate the Rable,</l>
+               <l>Because my fiery Face was formidable.</l>
+               <l>My Carbuncles, th'effects of <hi>Whiggish</hi> Bub,</l>
+               <l>Entitled me a Grandee of the Club;</l>
+               <l>Where the composure of our hellish sinning</l>
+               <l>Had its Original and first beginning.</l>
+               <l>Therefore once more farewel to all such Teachers,</l>
+               <l>And all the Hearers of such Non con Preachers,</l>
+               <l>To all the Rogues that once were Termagnant,</l>
+               <l>
+                  <hi>Baldwin,</hi> and <hi>Vile,</hi> Old, and Young <hi>Elephant,</hi>
+               </l>
+               <l>
+                  <hi>Curtis,</hi> and <hi>Janeway, Care,</hi> and in a word,</l>
+               <l>The remnant of that Treason-Printing hord:</l>
+               <l>May they like me repent, or else go on,</l>
+               <l>In the old beaten Paths of Forty One,</l>
+               <l>Till Justice seize you, then pray think on me,</l>
+               <l>How boldly I confess, how frank and free,</l>
+               <l>Far from the sight of <hi>Tyburns</hi> fatal Tree:</l>
+               <l>If you scape that, and hope to save your Quarters,</l>
+               <l>Let each Rogue hang himself in's own Wives Garters:</l>
+               <l>So <hi>Sirs,</hi> I hope you'l thank me, for I'm civil,</l>
+               <l>T'advise you how you may avoid that evil,</l>
+               <l>And not go headlong, headless to the Devil.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <hi>Amsterdam,</hi>
+                  <date>
+                     <hi>Novemb.</hi> 17. 1683.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>G. Shell,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
